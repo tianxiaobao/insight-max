@@ -1,0 +1,6 @@
+build/*.js
+config/*.js
+src/components/vue-color/*.js
+src/components/vue-color/**/*.vue
+src/components/colorPicker.vue
+
